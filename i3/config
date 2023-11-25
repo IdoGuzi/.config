@@ -194,3 +194,4 @@ bar {
 
 # wallpaper setter
 exec_always --no-startup-id feh --bg-scale --no-fehbg ~/.config/i3/wallpapers/1.jpg
+exec_always --no-startup-id picom --config ~/.config/i3/picom.conf
